@@ -3,8 +3,8 @@ class ApplePhotosToImmich < Formula
 
   desc "Migrate Apple Photos libraries to Immich"
   homepage "https://github.com/shaisegal/apple-photos-to-immich"
-  url "https://github.com/shaisegal/apple-photos-to-immich/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "37474b5ff776e7544e3d774a7373712845bf8686bdd3daafa62caaf5b6c02f88"
+  url "https://github.com/shaisegal/apple-photos-to-immich/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "3dd1ffe97a38ca4dfcbd0ac6288dc6c7409a3cb88d8e53060209fcf82effbcde"
   license "MIT"
 
   depends_on "python@3.12"
